@@ -44,7 +44,7 @@ Artificial Intelligence and Data Science graduate with working knowledge of Pyth
 ---
 
 ### 📫 Contact  
-- Email: *(shrutikondhalkar85@gmail.com)*  
+- Email: *(kondhalkarshruti15@gmail.com)*  
 
 ---
 
