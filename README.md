@@ -29,11 +29,11 @@ Artificial Intelligence and Data Science graduate with working knowledge of Pyth
 
 ---
 
-### 🚀 Currently Learning
+<!--### 🚀 Currently Learning
 - Advanced Python for Data Science  
 - Machine Learning algorithms  
 - Generative AI fundamentals  
-
+-->
 ---
 
 ### 🤝 Open To
