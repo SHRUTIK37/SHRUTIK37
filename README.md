@@ -1,7 +1,7 @@
 ## Hi 👋 I'm Shruti Kondhalkar
 
 🎓 Artificial Intelligence & Data Science Graduate  
-💻 Python | Data Analytics | Machine Learning | SQL | Power BI  
+💻 Python | Data Analytics | Machine Learning | SQL | Power BI | Prompt Engineering| |LLM |RAG
 📍 Entry-Level | Open to Opportunities  
 
 ---
